@@ -6,3 +6,5 @@ c = 20
 d = 25
 
 print(a * b + c - d)
+
+print("hello world")
